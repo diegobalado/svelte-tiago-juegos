@@ -70,21 +70,22 @@
 		<h1 class="mt-6 pt-0 text-center text-2xl font-black uppercase text-slate-50">
 			Bienvenid@ a Tiago Preguntas!!
 		</h1>
-		<div
-			class="mt-6 flex h-32 w-96 items-center justify-center rounded-xl border-2 border-slate-700 bg-slate-200"
-		>
-			Pregunta?
-		</div>
+
 		{#await currentQuestion}
-			<p>...waiting</p>
+			<p class="white">...cargando</p>
 		{:then question}
-			<div class="flex flex-col pt-4 gap-4">
-				{#if question?.options}
+			{#if question}
+				<div
+					class="mt-6 flex h-32 w-96 items-center justify-center rounded-xl border-2 border-slate-700 bg-slate-200"
+				>
+					{question.question}
+				</div>
+				<div class="flex flex-col pt-4 gap-4">
 					{#each question?.options as option}
 						<Button label={option} />
 					{/each}
-				{/if}
-			</div>
+				</div>
+			{/if}
 		{:catch error}
 			<p style="color: red">{error.message}</p>
 		{/await}
