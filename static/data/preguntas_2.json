@@ -1,0 +1,147 @@
+[
+  {
+  "id": 20,
+  "question": "¿Qué famoso científico desarrolló la teoría de la relatividad?",
+  "options": [
+    "Isaac Newton",
+    "Albert Einstein",
+    "Galileo Galilei",
+    "Stephen Hawking"
+  ],
+  "answer": 1
+},
+{
+  "id": 21,
+  "question": "¿Cuál es la capital de Japón?",
+  "options": ["Seúl", "Tokio", "Pekín", "Bangkok"],
+  "answer": 1
+},
+{
+  "id": 22,
+  "question": "¿Qué elemento químico tiene el símbolo 'O'?",
+  "options": ["Oro", "Oxígeno", "Osmio", "Oganesón"],
+  "answer": 1
+},
+{
+  "id": 23,
+  "question": "¿Cuál es el río más largo del mundo?",
+  "options": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+  "answer": 1
+},
+{
+  "id": 24,
+  "question": "¿Qué país es conocido como la tierra de los canguros?",
+  "options": ["Sudáfrica", "Australia", "Canadá", "India"],
+  "answer": 1
+},
+{
+  "id": 25,
+  "question": "¿Cuál es el idioma más hablado en el mundo?",
+  "options": ["Inglés", "Mandarín", "Español", "Árabe"],
+  "answer": 1
+},
+{
+  "id": 26,
+  "question": "¿Qué famoso artista pintó la Mona Lisa?",
+  "options": [
+    "Vincent van Gogh",
+    "Pablo Picasso",
+    "Leonardo da Vinci",
+    "Claude Monet"
+  ],
+  "answer": 2
+},
+{
+  "id": 27,
+  "question": "¿Cuál es el continente donde se encuentra Egipto?",
+  "options": ["Asia", "África", "Europa", "América"],
+  "answer": 1
+},
+{
+  "id": 28,
+  "question": "¿Qué instrumento musical se toca con un arco?",
+  "options": ["Piano", "Guitarra", "Violín", "Batería"],
+  "answer": 2
+},
+{
+  "id": 29,
+  "question": "¿Cuál es el país más pequeño del mundo?",
+  "options": ["Mónaco", "Vaticano", "San Marino", "Nauru"],
+  "answer": 1
+},
+{
+  "id": 30,
+  "question": "¿Qué océano se encuentra entre África y Australia?",
+  "options": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+  "answer": 1
+},
+{
+  "id": 31,
+  "question": "¿Cuál es el metal más ligero?",
+  "options": ["Aluminio", "Litio", "Sodio", "Magnesio"],
+  "answer": 1
+},
+{
+  "id": 32,
+  "question": "¿Qué país es famoso por sus tulipanes?",
+  "options": ["Bélgica", "Francia", "Países Bajos", "Alemania"],
+  "answer": 2
+},
+{
+  "id": 33,
+  "question": "¿Cuál es el nombre del primer hombre en caminar sobre la Luna?",
+  "options": [
+    "Buzz Aldrin",
+    "Neil Armstrong",
+    "Yuri Gagarin",
+    "Michael Collins"
+  ],
+  "answer": 1
+},
+{
+  "id": 34,
+  "question": "¿Qué tipo de animal es un delfín?",
+  "options": ["Pez", "Mamífero", "Reptil", "Anfibio"],
+  "answer": 1
+},
+{
+  "id": 35,
+  "question": "¿Cuál es la capital de Italia?",
+  "options": ["Roma", "Milán", "Venecia", "Florencia"],
+  "answer": 0
+},
+{
+  "id": 36,
+  "question": "¿Qué es la fotosíntesis?",
+  "options": [
+    "Proceso de respiración",
+    "Proceso de producción de energía en plantas",
+    "Proceso de reproducción",
+    "Proceso de digestión"
+  ],
+  "answer": 1
+},
+{
+  "id": 37,
+  "question": "¿Qué país tiene la mayor cantidad de islas?",
+  "options": ["Suecia", "Canadá", "Indonesia", "Filipinas"],
+  "answer": 1
+},
+{
+  "id": 38,
+  "question": "¿Cuál es el sistema operativo más utilizado en computadoras?",
+  "options": ["Linux", "Windows", "macOS", "Android"],
+  "answer": 1
+},
+{
+  "id": 39,
+  "question": "¿Qué famoso físico formuló las leyes del movimiento?",
+  "options": [
+    "Isaac Newton",
+    "Albert Einstein",
+    "Niels Bohr",
+    "Galileo Galilei"
+  ],
+  "answer": 0
+}
+]

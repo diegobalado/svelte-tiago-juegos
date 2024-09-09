@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál es la capital de Croacia?",
+    "options": ["Madrid", "Buenos Aires", "Zagreb", "Helsinki"],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "question": "¿A qué tipo de comida se le suele poner canela?",
+    "options": ["Dulce", "Salada"],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "¿Qué insecto picó a Spiderman?",
+    "options": ["Una araña", "Un escarabajo", "Un piojo", "Un escorpión"],
+    "answer": 0
+  },
+  {
+    "id": 4,
+    "question": "¿De qué película es el profesor Snape?",
+    "options": ["Spiderman", "Pokemon", "Harry Potter", "Los locos Addams"],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "question": "¿Cómo se llama el traje usado en el aikido?",
+    "options": ["Karatashi", "Mandioca", "Aikidoshi", "Osalfishi"],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "question": "¿Cuántos naipes hay en la baraja española?",
+    "options": ["25", "40", "50", "60"],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "question": "¿Qué animal habita en la Antártida?",
+    "options": [
+      "Oso polar",
+      "Pingüino emperador",
+      "Langosta Yeti",
+      "Rinoceronte"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "¿Cómo se llama el creador de este juego?",
+    "options": ["Alfredo", "Thiago", "Tiago", "Roberto"],
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "question": "¿En qué país nació el creador de este juego?",
+    "options": ["Estados Unidos", "Croacia", "Argentina", "Marruecos"],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "¿En qué año se creó el Minecraft?",
+    "options": ["2001", "2011", "2050", "1896"],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "question": "¿Qué país ganó el mundial de fútbol sub-20 en 2023?",
+    "options": ["Italia", "Francia", "Alemania", "Uruguay"],
+    "answer": 3
+  },
+  {
+    "id": 12,
+    "question": "¿Cómo se llama el amigo físico de El eternauta?",
+    "options": ["Favalli", "Flitwik", "Mateo", "Juan"],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "question": "¿Cuál es el océano más grande del mundo?",
+    "options": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+    "answer": 3
+  },
+  {
+    "id": 14,
+    "question": "¿Qué planeta es conocido como el planeta rojo?",
+    "options": ["Tierra", "Marte", "Júpiter", "Venus"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál es el país más poblado del mundo?",
+    "options": ["India", "Estados Unidos", "China", "Indonesia"],
+    "answer": 2
+  },
+  {
+    "id": 16,
+    "question": "¿Qué instrumento musical tiene teclas blancas y negras?",
+    "options": ["Guitarra", "Piano", "Batería", "Saxofón"],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": "¿Cuál es el continente más grande del mundo?",
+    "options": ["África", "Asia", "América", "Europa"],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "¿Qué gas es esencial para la respiración humana?",
+    "options": ["Dióxido de carbono", "Oxígeno", "Nitrógeno", "Helio"],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "question": "¿Cuál es el animal terrestre más grande?",
+    "options": ["Elefante", "Rinoceronte", "Jirafa", "Hipopótamo"],
+    "answer": 0
+  }
+]

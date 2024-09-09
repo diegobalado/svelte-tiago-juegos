@@ -1,0 +1,136 @@
+[{
+  "id": 40,
+  "question": "¿Cuál es el país conocido por la Torre Eiffel?",
+  "options": ["Italia", "Francia", "España", "Reino Unido"],
+  "answer": 1
+},
+{
+  "id": 41,
+  "question": "¿Cuál es la capital de España?",
+  "options": ["Barcelona", "Madrid", "Valencia", "Sevilla"],
+  "answer": 1
+},
+{
+  "id": 42,
+  "question": "¿Qué gas forma la mayor parte de la atmósfera terrestre?",
+  "options": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Helio"],
+  "answer": 1
+},
+{
+  "id": 43,
+  "question": "¿Cuál es el continente más pequeño del mundo?",
+  "options": ["Oceanía", "Europa", "Antártida", "Asia"],
+  "answer": 2
+},
+{
+  "id": 44,
+  "question": "¿Qué animal es conocido como el rey de la selva?",
+  "options": ["Tigre", "León", "Elefante", "Gorila"],
+  "answer": 1
+},
+{
+  "id": 45,
+  "question": "¿Cuál es el país con más medallas en los Juegos Olímpicos?",
+  "options": ["Estados Unidos", "Rusia", "China", "Alemania"],
+  "answer": 0
+},
+{
+  "id": 46,
+  "question": "¿Qué parte del cuerpo humano contiene el fémur?",
+  "options": ["Brazo", "Pierna", "Cabeza", "Torso"],
+  "answer": 1
+},
+{
+  "id": 47,
+  "question": "¿Cuál es el océano más pequeño del mundo?",
+  "options": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+  "answer": 2
+},
+{
+  "id": 48,
+  "question": "¿Qué tipo de animal es una tortuga?",
+  "options": ["Mamífero", "Reptil", "Anfibio", "Pez"],
+  "answer": 1
+},
+{
+  "id": 49,
+  "question": "¿Cuál es el país más grande del mundo?",
+  "options": ["Canadá", "Rusia", "China", "Estados Unidos"],
+  "answer": 1
+},
+{
+  "id": 50,
+  "question": "¿Qué famoso autor escribió 'Cien años de soledad'?",
+  "options": [
+    "Jorge Luis Borges",
+    "Gabriel García Márquez",
+    "Mario Vargas Llosa",
+    "Julio Cortázar"
+  ],
+  "answer": 1
+},
+{
+  "id": 51,
+  "question": "¿Cuál es la capital de Alemania?",
+  "options": ["Berlín", "Múnich", "Fráncfort", "Hamburgo"],
+  "answer": 0
+},
+{
+  "id": 52,
+  "question": "¿Qué es un agujero negro?",
+  "options": [
+    "Un tipo de estrella",
+    "Un fenómeno espacial con gravedad extrema",
+    "Un planeta",
+    "Una galaxia"
+  ],
+  "answer": 1
+},
+{
+  "id": 53,
+  "question": "¿Cuál es el animal más rápido del mundo?",
+  "options": ["Guepardo", "Halcón peregrino", "Antílope", "Caballo"],
+  "answer": 1
+},
+{
+  "id": 54,
+  "question": "¿Qué continente tiene más países?",
+  "options": ["África", "Asia", "Europa", "América"],
+  "answer": 0
+},
+{
+  "id": 55,
+  "question": "¿Cuál es el símbolo químico del oro?",
+  "options": ["Au", "Ag", "Fe", "Pb"],
+  "answer": 0
+},
+{
+  "id": 56,
+  "question": "¿Qué famoso científico propuso la teoría de la evolución?",
+  "options": [
+    "Charles Darwin",
+    "Albert Einstein",
+    "Isaac Newton",
+    "Galileo Galilei"
+  ],
+  "answer": 0
+},
+{
+  "id": 57,
+  "question": "¿Cuál es la capital de Brasil?",
+  "options": ["Río de Janeiro", "Brasilia", "São Paulo", "Salvador"],
+  "answer": 1
+},
+{
+  "id": 58,
+  "question": "¿Qué tipo de animal es un pingüino?",
+  "options": ["Ave", "Mamífero", "Reptil", "Anfibio"],
+  "answer": 0
+},
+{
+  "id": 59,
+  "question": "¿Cuál es el océano más profundo del mundo?",
+  "options": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+  "answer": 2
+}
+]

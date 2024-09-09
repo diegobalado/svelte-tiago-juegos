@@ -1,0 +1,188 @@
+[
+{
+  "id": 80,
+  "question": "¿Qué es un hábitat?",
+  "options": [
+    "El lugar donde vive un organismo",
+    "Un tipo de animal",
+    "Un fenómeno natural",
+    "Un tipo de planta"
+  ],
+  "answer": 0
+},
+{
+  "id": 81,
+  "question": "¿Cuál es la capital de Bolivia?",
+  "options": ["La Paz", "Sucre", "Cochabamba", "Santa Cruz"],
+  "answer": 0
+},
+{
+  "id": 82,
+  "question": "¿Qué es la contaminación?",
+  "options": [
+    "La presencia de sustancias nocivas en el medio ambiente",
+    "Un tipo de energía",
+    "Un fenómeno natural",
+    "Un tipo de planta"
+  ],
+  "answer": 0
+},
+{
+  "id": 83,
+  "question": "¿Cuál es la capital de Paraguay?",
+  "options": [
+    "Asunción",
+    "Ciudad del Este",
+    "Encarnación",
+    "Pedro Juan Caballero"
+  ],
+  "answer": 0
+},
+{
+  "id": 84,
+  "question": "¿Qué es un recurso natural?",
+  "options": [
+    "Un material que se encuentra en la naturaleza",
+    "Un tipo de animal",
+    "Un fenómeno meteorológico",
+    "Un tipo de planta"
+  ],
+  "answer": 0
+},
+{
+  "id": 85,
+  "question": "¿Cuál es la capital de Ecuador?",
+  "options": ["Quito", "Guayaquil", "Cuenca", "Manta"],
+  "answer": 0
+},
+{
+  "id": 86,
+  "question": "¿Qué es la energía eólica?",
+  "options": [
+    "Energía producida por el viento",
+    "Energía producida por el sol",
+    "Energía producida por el agua",
+    "Energía producida por combustibles fósiles"
+  ],
+  "answer": 0
+},
+{
+  "id": 87,
+  "question": "¿Cuál es la capital de Chile?",
+  "options": ["Santiago", "Valparaíso", "Concepción", "La Serena"],
+  "answer": 0
+},
+{
+  "id": 88,
+  "question": "¿Qué es un ecosistema?",
+  "options": [
+    "Una comunidad de organismos y su entorno",
+    "Un tipo de animal",
+    "Un fenómeno natural",
+    "Un tipo de planta"
+  ],
+  "answer": 0
+},
+{
+  "id": 89,
+  "question": "¿Cuál es la capital de Costa Rica?",
+  "options": ["San José", "Alajuela", "Cartago", "Liberia"],
+  "answer": 0
+},
+{
+  "id": 90,
+  "question": "¿Qué es la fotosíntesis?",
+  "options": [
+    "Proceso mediante el cual las plantas producen su alimento",
+    "Un tipo de reproducción",
+    "Un fenómeno químico",
+    "Un tipo de energía"
+  ],
+  "answer": 0
+},
+{
+  "id": 91,
+  "question": "¿Cuál es la capital de Nicaragua?",
+  "options": ["Managua", "León", "Granada", "Masaya"],
+  "answer": 0
+},
+{
+  "id": 92,
+  "question": "¿Qué es un bioma?",
+  "options": [
+    "Una gran área ecológica con condiciones climáticas similares",
+    "Un tipo de animal",
+    "Un fenómeno natural",
+    "Un tipo de planta"
+  ],
+  "answer": 0
+},
+{
+  "id": 93,
+  "question": "¿Cuál es la capital de El Salvador?",
+  "options": ["San Salvador", "Santa Ana", "San Miguel", "La Libertad"],
+  "answer": 0
+},
+{
+  "id": 94,
+  "question": "¿Qué es la energía geotérmica?",
+  "options": [
+    "Energía producida por el calor de la Tierra",
+    "Energía producida por el viento",
+    "Energía producida por el sol",
+    "Energía producida por combustibles fósiles"
+  ],
+  "answer": 0
+},
+{
+  "id": 95,
+  "question": "¿Cuál es la capital de Panamá?",
+  "options": ["Panamá", "David", "Colón", "Chiriquí"],
+  "answer": 0
+},
+{
+  "id": 96,
+  "question": "¿Qué es un recurso renovable?",
+  "options": [
+    "Un recurso que se puede regenerar",
+    "Un tipo de animal",
+    "Un fenómeno natural",
+    "Un tipo de planta"
+  ],
+  "answer": 0
+},
+{
+  "id": 97,
+  "question": "¿Cuál es la capital de Haití?",
+  "options": ["Puerto Príncipe", "Cap-Haïtien", "Les Cayes", "Jacmel"],
+  "answer": 0
+},
+{
+  "id": 98,
+  "question": "¿Qué es la energía hidráulica?",
+  "options": [
+    "Energía producida por el agua",
+    "Energía producida por el viento",
+    "Energía producida por el sol",
+    "Energía producida por combustibles fósiles"
+  ],
+  "answer": 0
+},
+{
+  "id": 99,
+  "question": "¿Cuál es la capital de Jamaica?",
+  "options": ["Kingston", "Montego Bay", "Ocho Ríos", "Negril"],
+  "answer": 0
+},
+{
+  "id": 100,
+  "question": "¿Qué es la energía no renovable?",
+  "options": [
+    "Energía que no se puede regenerar",
+    "Energía producida por el viento",
+    "Energía producida por el sol",
+    "Energía producida por el agua"
+  ],
+  "answer": 0
+}
+]

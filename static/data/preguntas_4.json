@@ -1,0 +1,160 @@
+[{
+  "id": 60,
+  "question": "¿Qué país es conocido por su chocolate?",
+  "options": ["Francia", "Suiza", "Bélgica", "Italia"],
+  "answer": 2
+},
+{
+  "id": 61,
+  "question": "¿Cuál es la capital de Argentina?",
+  "options": ["Buenos Aires", "Córdoba", "Rosario", "La Plata"],
+  "answer": 0
+},
+{
+  "id": 62,
+  "question": "¿Qué es la gravedad?",
+  "options": [
+    "Una fuerza que atrae objetos hacia el centro de la Tierra",
+    "Una forma de energía",
+    "Un tipo de materia",
+    "Un fenómeno óptico"
+  ],
+  "answer": 0
+},
+{
+  "id": 63,
+  "question": "¿Cuál es el país más grande de África?",
+  "options": ["Sudáfrica", "Egipto", "Argelia", "Nigeria"],
+  "answer": 2
+},
+{
+  "id": 64,
+  "question": "¿Qué tipo de animal es un tiburón?",
+  "options": ["Pez", "Mamífero", "Reptil", "Anfibio"],
+  "answer": 0
+},
+{
+  "id": 65,
+  "question": "¿Cuál es la capital de Canadá?",
+  "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+  "answer": 2
+},
+{
+  "id": 66,
+  "question": "¿Qué es un volcán?",
+  "options": [
+    "Una montaña que lanza lava",
+    "Un tipo de roca",
+    "Un fenómeno meteorológico",
+    "Una especie de planta"
+  ],
+  "answer": 0
+},
+{
+  "id": 67,
+  "question": "¿Cuál es el continente más poblado?",
+  "options": ["África", "Asia", "Europa", "América"],
+  "answer": 1
+},
+{
+  "id": 68,
+  "question": "¿Qué es un ecosistema?",
+  "options": [
+    "Un tipo de animal",
+    "Una comunidad de organismos y su entorno",
+    "Un fenómeno natural",
+    "Un tipo de planta"
+  ],
+  "answer": 1
+},
+{
+  "id": 69,
+  "question": "¿Cuál es la capital de Chile?",
+  "options": ["Santiago", "Valparaíso", "Concepción", "La Serena"],
+  "answer": 0
+},
+{
+  "id": 70,
+  "question": "¿Qué es la mitosis?",
+  "options": [
+    "Un tipo de reproducción",
+    "Un proceso de división celular",
+    "Un fenómeno químico",
+    "Un tipo de energía"
+  ],
+  "answer": 1
+},
+{
+  "id": 71,
+  "question": "¿Cuál es el país más pequeño de África?",
+  "options": ["Seychelles", "Malta", "Gambia", "Djibouti"],
+  "answer": 0
+},
+{
+  "id": 72,
+  "question": "¿Qué es un asteroide?",
+  "options": [
+    "Un tipo de estrella",
+    "Un pequeño cuerpo rocoso en el espacio",
+    "Un planeta",
+    "Una luna"
+  ],
+  "answer": 1
+},
+{
+  "id": 73,
+  "question": "¿Cuál es la capital de Perú?",
+  "options": ["Lima", "Cusco", "Arequipa", "Trujillo"],
+  "answer": 0
+},
+{
+  "id": 74,
+  "question": "¿Qué es la biodiversidad?",
+  "options": [
+    "La variedad de vida en un ecosistema",
+    "Un tipo de planta",
+    "Un fenómeno meteorológico",
+    "Un tipo de energía"
+  ],
+  "answer": 0
+},
+{
+  "id": 75,
+  "question": "¿Cuál es la capital de Colombia?",
+  "options": ["Medellín", "Cali", "Bogotá", "Cartagena"],
+  "answer": 2
+},
+{
+  "id": 76,
+  "question": "¿Qué es un cometa?",
+  "options": [
+    "Un tipo de estrella",
+    "Un cuerpo celeste que orbita el sol",
+    "Un planeta",
+    "Una luna"
+  ],
+  "answer": 1
+},
+{
+  "id": 77,
+  "question": "¿Cuál es la capital de Uruguay?",
+  "options": ["Montevideo", "Salto", "Punta del Este", "Colonia"],
+  "answer": 0
+},
+{
+  "id": 78,
+  "question": "¿Qué es la energía solar?",
+  "options": [
+    "Energía producida por el sol",
+    "Energía producida por el viento",
+    "Energía producida por el agua",
+    "Energía producida por combustibles fósiles"
+  ],
+  "answer": 0
+},
+{
+  "id": 79,
+  "question": "¿Cuál es la capital de Venezuela?",
+  "options": ["Caracas", "Maracaibo", "Valencia", "Barquisimeto"],
+  "answer": 0
+}]
