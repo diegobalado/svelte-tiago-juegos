@@ -78,7 +78,9 @@
 				<div
 					class="mt-6 flex h-32 w-96 items-center justify-center rounded-xl border-2 border-slate-700 bg-slate-200"
 				>
-					{question.question}
+					<p class="text-center text-balance">
+						{question.question}
+					</p>
 				</div>
 				<div class="flex flex-col pt-4 gap-4">
 					{#each question?.options as option}
