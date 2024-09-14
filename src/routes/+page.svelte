@@ -41,7 +41,9 @@
 	// Función para cargar el JSON
 	async function loadData() {
 		try {
-			const response = await fetch('/data/preguntas_1.json');
+			const randomNumber = Math.floor(Math.random() * 5) + 1;
+			const jsonFileName = `preguntas_${randomNumber}.json`;
+			const response = await fetch(`/data/${jsonFileName}`);
 			if (!response.ok) {
 				throw new Error('Error al cargar el JSON');
 			}
@@ -57,6 +59,19 @@
 	onMount(() => {
 		loadData();
 	});
+
+	/**
+	 * @param {string} question
+	 * @param {number} index
+	 */
+	const checkAnswer = (question, index) => {
+		console.log
+		if (index === question.answer) {
+			alert('Correcto');
+		} else {
+			alert('Incorrecto');
+		}
+	};
 </script>
 
 <svelte:head>
@@ -83,8 +98,8 @@
 					</p>
 				</div>
 				<div class="flex flex-col pt-4 gap-4">
-					{#each question?.options as option}
-						<Button label={option} />
+					{#each question?.options as option, index}
+						<Button label={option} onClick={() => checkAnswer(question, index)} />
 					{/each}
 				</div>
 			{/if}
