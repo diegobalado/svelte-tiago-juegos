@@ -5,32 +5,29 @@
     "options": [
       "Madrid",
       "Buenos Aires",
-      "Zagreb",
+      "_Zagreb",
       "Helsinki"
     ],
-    "answer": 2,
     "category": "Geografia"
   },
   {
     "id": 2,
     "question": "¿A qué tipo de comida se le suele poner canela?",
     "options": [
-      "Dulce",
+      "_Dulce",
       "Salada"
     ],
-    "answer": 0,
     "category": "Cocina"
   },
   {
     "id": 3,
     "question": "¿Qué insecto picó a Spiderman?",
     "options": [
-      "Una araña",
+      "_Una araña",
       "Un escarabajo",
       "Un piojo",
       "Un escorpión"
     ],
-    "answer": 0,
     "category": "Entretenimiento"
   },
   {
@@ -39,10 +36,9 @@
     "options": [
       "Spiderman",
       "Pokemon",
-      "Harry Potter",
+      "_Harry Potter",
       "Los locos Addams"
     ],
-    "answer": 2,
     "category": "Entretenimiento"
   },
   {
@@ -51,10 +47,9 @@
     "options": [
       "Karatashi",
       "Mandioca",
-      "Aikidoshi",
+      "_Aikidoshi",
       "Osalfishi"
     ],
-    "answer": 2,
     "category": "Deportes"
   },
   {
@@ -63,10 +58,9 @@
     "options": [
       "25",
       "40",
-      "50",
+      "_50",
       "60"
     ],
-    "answer": 2,
     "category": "Entretenimiento"
   },
   {
@@ -74,11 +68,10 @@
     "question": "¿Qué animal habita en la Antártida?",
     "options": [
       "Oso polar",
-      "Pingüino emperador",
+      "_Pingüino emperador",
       "Langosta Yeti",
       "Rinoceronte"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
@@ -87,10 +80,9 @@
     "options": [
       "Alfredo",
       "Thiago",
-      "Tiago",
+      "_Tiago",
       "Roberto"
     ],
-    "answer": 2,
     "category": "Entretenimiento"
   },
   {
@@ -99,10 +91,9 @@
     "options": [
       "Estados Unidos",
       "Croacia",
-      "Argentina",
+      "_Argentina",
       "Marruecos"
     ],
-    "answer": 2,
     "category": "Geografia"
   },
   {
@@ -110,11 +101,10 @@
     "question": "¿En qué año se creó el Minecraft?",
     "options": [
       "2001",
-      "2011",
+      "_2011",
       "2050",
       "1896"
     ],
-    "answer": 1,
     "category": "Entretenimiento"
   },
   {
@@ -124,21 +114,19 @@
       "Italia",
       "Francia",
       "Alemania",
-      "Uruguay"
+      "_Uruguay"
     ],
-    "answer": 3,
     "category": "Deportes"
   },
   {
     "id": 12,
     "question": "¿Cómo se llama el amigo físico de El eternauta?",
     "options": [
-      "Favalli",
+      "_Favalli",
       "Flitwik",
       "Mateo",
       "Juan"
     ],
-    "answer": 0,
     "category": "Entretenimiento"
   },
   {
@@ -148,9 +136,8 @@
       "Atlántico",
       "Índico",
       "Ártico",
-      "Pacífico"
+      "_Pacífico"
     ],
-    "answer": 3,
     "category": "Geografia"
   },
   {
@@ -158,11 +145,10 @@
     "question": "¿Qué planeta es conocido como el planeta rojo?",
     "options": [
       "Tierra",
-      "Marte",
+      "_Marte",
       "Júpiter",
       "Venus"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
@@ -171,10 +157,9 @@
     "options": [
       "India",
       "Estados Unidos",
-      "China",
+      "_China",
       "Indonesia"
     ],
-    "answer": 2,
     "category": "Geografia"
   },
   {
@@ -182,11 +167,10 @@
     "question": "¿Qué instrumento musical tiene teclas blancas y negras?",
     "options": [
       "Guitarra",
-      "Piano",
+      "_Piano",
       "Batería",
       "Saxofón"
     ],
-    "answer": 1,
     "category": "Arte"
   },
   {
@@ -194,11 +178,10 @@
     "question": "¿Cuál es el continente más grande del mundo?",
     "options": [
       "África",
-      "Asia",
+      "_Asia",
       "América",
       "Europa"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -206,23 +189,21 @@
     "question": "¿Qué gas es esencial para la respiración humana?",
     "options": [
       "Dióxido de carbono",
-      "Oxígeno",
+      "_Oxígeno",
       "Nitrógeno",
       "Helio"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
     "id": 19,
     "question": "¿Cuál es el animal terrestre más grande?",
     "options": [
-      "Elefante",
+      "_Elefante",
       "Rinoceronte",
       "Jirafa",
       "Hipopótamo"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
@@ -230,11 +211,10 @@
     "question": "¿Qué famoso científico desarrolló la teoría de la relatividad?",
     "options": [
       "Isaac Newton",
-      "Albert Einstein",
+      "_Albert Einstein",
       "Galileo Galilei",
       "Stephen Hawking"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
@@ -242,11 +222,10 @@
     "question": "¿Cuál es la capital de Japón?",
     "options": [
       "Seúl",
-      "Tokio",
+      "_Tokio",
       "Pekín",
       "Bangkok"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -254,11 +233,10 @@
     "question": "¿Qué elemento químico tiene el símbolo 'O'?",
     "options": [
       "Oro",
-      "Oxígeno",
+      "_Oxígeno",
       "Osmio",
       "Oganesón"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
@@ -266,11 +244,10 @@
     "question": "¿Cuál es el río más largo del mundo?",
     "options": [
       "Amazonas",
-      "Nilo",
+      "_Nilo",
       "Yangtsé",
       "Misisipi"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -278,11 +255,10 @@
     "question": "¿Qué país es conocido como la tierra de los canguros?",
     "options": [
       "Sudáfrica",
-      "Australia",
+      "_Australia",
       "Canadá",
       "India"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -290,11 +266,10 @@
     "question": "¿Cuál es el idioma más hablado en el mundo?",
     "options": [
       "Inglés",
-      "Mandarín",
+      "_Mandarín",
       "Español",
       "Árabe"
     ],
-    "answer": 1,
     "category": "Cultura"
   },
   {
@@ -303,10 +278,9 @@
     "options": [
       "Vincent van Gogh",
       "Pablo Picasso",
-      "Leonardo da Vinci",
+      "_Leonardo da Vinci",
       "Claude Monet"
     ],
-    "answer": 2,
     "category": "Arte"
   },
   {
@@ -314,11 +288,10 @@
     "question": "¿Cuál es el continente donde se encuentra Egipto?",
     "options": [
       "Asia",
-      "África",
+      "_África",
       "Europa",
       "América"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -327,10 +300,9 @@
     "options": [
       "Piano",
       "Guitarra",
-      "Violín",
+      "_Violín",
       "Batería"
     ],
-    "answer": 2,
     "category": "Arte"
   },
   {
@@ -338,11 +310,10 @@
     "question": "¿Cuál es el país más pequeño del mundo?",
     "options": [
       "Mónaco",
-      "Vaticano",
+      "_Vaticano",
       "San Marino",
       "Nauru"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -350,11 +321,10 @@
     "question": "¿Qué océano se encuentra entre África y Australia?",
     "options": [
       "Atlántico",
-      "Índico",
+      "_Índico",
       "Pacífico",
       "Ártico"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -362,11 +332,10 @@
     "question": "¿Cuál es el metal más ligero?",
     "options": [
       "Aluminio",
-      "Litio",
+      "_Litio",
       "Sodio",
       "Magnesio"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
@@ -375,10 +344,9 @@
     "options": [
       "Bélgica",
       "Francia",
-      "Países Bajos",
+      "_Países Bajos",
       "Alemania"
     ],
-    "answer": 2,
     "category": "Cultura"
   },
   {
@@ -386,11 +354,10 @@
     "question": "¿Cuál es el nombre del primer hombre en caminar sobre la Luna?",
     "options": [
       "Buzz Aldrin",
-      "Neil Armstrong",
+      "_Neil Armstrong",
       "Yuri Gagarin",
       "Michael Collins"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
@@ -398,23 +365,21 @@
     "question": "¿Qué tipo de animal es un delfín?",
     "options": [
       "Pez",
-      "Mamífero",
+      "_Mamífero",
       "Reptil",
       "Anfibio"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
     "id": 35,
     "question": "¿Cuál es la capital de Italia?",
     "options": [
-      "Roma",
+      "_Roma",
       "Milán",
       "Venecia",
       "Florencia"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
@@ -422,11 +387,10 @@
     "question": "¿Qué es la fotosíntesis?",
     "options": [
       "Proceso de respiración",
-      "Proceso de producción de energía en plantas",
+      "_Proceso de producción de energía en plantas",
       "Proceso de reproducción",
       "Proceso de digestión"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
@@ -434,11 +398,10 @@
     "question": "¿Qué país tiene la mayor cantidad de islas?",
     "options": [
       "Suecia",
-      "Canadá",
+      "_Canadá",
       "Indonesia",
       "Filipinas"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -446,23 +409,21 @@
     "question": "¿Cuál es el sistema operativo más utilizado en computadoras?",
     "options": [
       "Linux",
-      "Windows",
+      "_Windows",
       "macOS",
       "Android"
     ],
-    "answer": 1,
     "category": "Tecnologia"
   },
   {
     "id": 39,
     "question": "¿Qué famoso físico formuló las leyes del movimiento?",
     "options": [
-      "Isaac Newton",
+      "_Isaac Newton",
       "Albert Einstein",
       "Niels Bohr",
       "Galileo Galilei"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
@@ -470,11 +431,10 @@
     "question": "¿Cuál es el país conocido por la Torre Eiffel?",
     "options": [
       "Italia",
-      "Francia",
+      "_Francia",
       "España",
       "Reino Unido"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -482,11 +442,10 @@
     "question": "¿Cuál es la capital de España?",
     "options": [
       "Barcelona",
-      "Madrid",
+      "_Madrid",
       "Valencia",
       "Sevilla"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -494,11 +453,10 @@
     "question": "¿Qué gas forma la mayor parte de la atmósfera terrestre?",
     "options": [
       "Oxígeno",
-      "Nitrógeno",
+      "_Nitrógeno",
       "Dióxido de carbono",
       "Helio"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
@@ -507,10 +465,9 @@
     "options": [
       "Oceanía",
       "Europa",
-      "Antártida",
+      "_Antártida",
       "Asia"
     ],
-    "answer": 2,
     "category": "Geografia"
   },
   {
@@ -518,23 +475,21 @@
     "question": "¿Qué animal es conocido como el rey de la selva?",
     "options": [
       "Tigre",
-      "León",
+      "_León",
       "Elefante",
       "Gorila"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
     "id": 45,
     "question": "¿Cuál es el país con más medallas en los Juegos Olímpicos?",
     "options": [
-      "Estados Unidos",
+      "_Estados Unidos",
       "Rusia",
       "China",
       "Alemania"
     ],
-    "answer": 0,
     "category": "Deportes"
   },
   {
@@ -542,11 +497,10 @@
     "question": "¿Qué parte del cuerpo humano contiene el fémur?",
     "options": [
       "Brazo",
-      "Pierna",
+      "_Pierna",
       "Cabeza",
       "Torso"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
@@ -555,10 +509,9 @@
     "options": [
       "Atlántico",
       "Índico",
-      "Ártico",
+      "_Ártico",
       "Pacífico"
     ],
-    "answer": 2,
     "category": "Geografia"
   },
   {
@@ -566,11 +519,10 @@
     "question": "¿Qué tipo de animal es una tortuga?",
     "options": [
       "Mamífero",
-      "Reptil",
+      "_Reptil",
       "Anfibio",
       "Pez"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
@@ -578,11 +530,10 @@
     "question": "¿Cuál es el país más grande del mundo?",
     "options": [
       "Canadá",
-      "Rusia",
+      "_Rusia",
       "China",
       "Estados Unidos"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -590,23 +541,21 @@
     "question": "¿Qué famoso autor escribió 'Cien años de soledad'?",
     "options": [
       "Jorge Luis Borges",
-      "Gabriel García Márquez",
+      "_Gabriel García Márquez",
       "Mario Vargas Llosa",
       "Julio Cortázar"
     ],
-    "answer": 1,
     "category": "Literatura"
   },
   {
     "id": 51,
     "question": "¿Cuál es la capital de Alemania?",
     "options": [
-      "Berlín",
+      "_Berlín",
       "Múnich",
       "Fráncfort",
       "Hamburgo"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
@@ -614,11 +563,10 @@
     "question": "¿Qué es un agujero negro?",
     "options": [
       "Un tipo de estrella",
-      "Un fenómeno espacial con gravedad extrema",
+      "_Un fenómeno espacial con gravedad extrema",
       "Un planeta",
       "Una galaxia"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
@@ -626,47 +574,43 @@
     "question": "¿Cuál es el animal más rápido del mundo?",
     "options": [
       "Guepardo",
-      "Halcón peregrino",
+      "_Halcón peregrino",
       "Antílope",
       "Caballo"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
     "id": 54,
     "question": "¿Qué continente tiene más países?",
     "options": [
-      "África",
+      "_África",
       "Asia",
       "Europa",
       "América"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 55,
     "question": "¿Cuál es el símbolo químico del oro?",
     "options": [
-      "Au",
+      "_Au",
       "Ag",
       "Fe",
       "Pb"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 56,
     "question": "¿Qué famoso científico propuso la teoría de la evolución?",
     "options": [
-      "Charles Darwin",
+      "_Charles Darwin",
       "Albert Einstein",
       "Isaac Newton",
       "Galileo Galilei"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
@@ -674,23 +618,21 @@
     "question": "¿Cuál es la capital de Brasil?",
     "options": [
       "Río de Janeiro",
-      "Brasilia",
+      "_Brasilia",
       "São Paulo",
       "Salvador"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
     "id": 58,
     "question": "¿Qué tipo de animal es un pingüino?",
     "options": [
-      "Ave",
+      "_Ave",
       "Mamífero",
       "Reptil",
       "Anfibio"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
@@ -699,10 +641,9 @@
     "options": [
       "Atlántico",
       "Índico",
-      "Pacífico",
+      "_Pacífico",
       "Ártico"
     ],
-    "answer": 2,
     "category": "Geografia"
   },
   {
@@ -711,34 +652,31 @@
     "options": [
       "Francia",
       "Suiza",
-      "Bélgica",
+      "_Bélgica",
       "Italia"
     ],
-    "answer": 2,
     "category": "Cultura"
   },
   {
     "id": 61,
     "question": "¿Cuál es la capital de Argentina?",
     "options": [
-      "Buenos Aires",
+      "_Buenos Aires",
       "Córdoba",
       "Rosario",
       "La Plata"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 62,
     "question": "¿Qué es la gravedad?",
     "options": [
-      "Una fuerza que atrae objetos hacia el centro de la Tierra",
+      "_Una fuerza que atrae objetos hacia el centro de la Tierra",
       "Una forma de energía",
       "Un tipo de materia",
       "Un fenómeno óptico"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
@@ -747,22 +685,20 @@
     "options": [
       "Sudáfrica",
       "Egipto",
-      "Argelia",
+      "_Argelia",
       "Nigeria"
     ],
-    "answer": 2,
     "category": "Geografia"
   },
   {
     "id": 64,
     "question": "¿Qué tipo de animal es un tiburón?",
     "options": [
-      "Pez",
+      "_Pez",
       "Mamífero",
       "Reptil",
       "Anfibio"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
@@ -771,22 +707,20 @@
     "options": [
       "Toronto",
       "Vancouver",
-      "Ottawa",
+      "_Ottawa",
       "Montreal"
     ],
-    "answer": 2,
     "category": "Geografia"
   },
   {
     "id": 66,
     "question": "¿Qué es un volcán?",
     "options": [
-      "Una montaña que lanza lava",
+      "_Una montaña que lanza lava",
       "Un tipo de roca",
       "Un fenómeno meteorológico",
       "Una especie de planta"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
@@ -794,11 +728,10 @@
     "question": "¿Cuál es el continente más poblado?",
     "options": [
       "África",
-      "Asia",
+      "_Asia",
       "Europa",
       "América"
     ],
-    "answer": 1,
     "category": "Geografia"
   },
   {
@@ -806,23 +739,21 @@
     "question": "¿Qué es un ecosistema?",
     "options": [
       "Un tipo de animal",
-      "Una comunidad de organismos y su entorno",
+      "_Una comunidad de organismos y su entorno",
       "Un fenómeno natural",
       "Un tipo de planta"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
     "id": 69,
     "question": "¿Cuál es la capital de Chile?",
     "options": [
-      "Santiago",
+      "_Santiago",
       "Valparaíso",
       "Concepción",
       "La Serena"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
@@ -830,23 +761,21 @@
     "question": "¿Qué es la mitosis?",
     "options": [
       "Un tipo de reproducción",
-      "Un proceso de división celular",
+      "_Un proceso de división celular",
       "Un fenómeno químico",
       "Un tipo de energía"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
     "id": 71,
     "question": "¿Cuál es el país más pequeño de África?",
     "options": [
-      "Seychelles",
+      "_Seychelles",
       "Malta",
       "Gambia",
       "Djibouti"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
@@ -854,35 +783,32 @@
     "question": "¿Qué es un asteroide?",
     "options": [
       "Un tipo de estrella",
-      "Un pequeño cuerpo rocoso en el espacio",
+      "_Un pequeño cuerpo rocoso en el espacio",
       "Un planeta",
       "Una luna"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
     "id": 73,
     "question": "¿Cuál es la capital de Perú?",
     "options": [
-      "Lima",
+      "_Lima",
       "Cusco",
       "Arequipa",
       "Trujillo"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 74,
     "question": "¿Qué es la biodiversidad?",
     "options": [
-      "La variedad de vida en un ecosistema",
+      "_La variedad de vida en un ecosistema",
       "Un tipo de planta",
       "Un fenómeno meteorológico",
       "Un tipo de energía"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
@@ -891,10 +817,9 @@
     "options": [
       "Medellín",
       "Cali",
-      "Bogotá",
+      "_Bogotá",
       "Cartagena"
     ],
-    "answer": 2,
     "category": "Geografia"
   },
   {
@@ -902,299 +827,274 @@
     "question": "¿Qué es un cometa?",
     "options": [
       "Un tipo de estrella",
-      "Un cuerpo celeste que orbita el sol",
+      "_Un cuerpo celeste que orbita el sol",
       "Un planeta",
       "Una luna"
     ],
-    "answer": 1,
     "category": "Ciencias"
   },
   {
     "id": 77,
     "question": "¿Cuál es la capital de Uruguay?",
     "options": [
-      "Montevideo",
+      "_Montevideo",
       "Salto",
       "Punta del Este",
       "Colonia"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 78,
     "question": "¿Qué es la energía solar?",
     "options": [
-      "Energía producida por el sol",
+      "_Energía producida por el sol",
       "Energía producida por el viento",
       "Energía producida por el agua",
       "Energía producida por combustibles fósiles"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 79,
     "question": "¿Cuál es la capital de Venezuela?",
     "options": [
-      "Caracas",
+      "_Caracas",
       "Maracaibo",
       "Valencia",
       "Barquisimeto"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 80,
     "question": "¿Qué es un hábitat?",
     "options": [
-      "El lugar donde vive un organismo",
+      "_El lugar donde vive un organismo",
       "Un tipo de animal",
       "Un fenómeno natural",
       "Un tipo de planta"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 81,
     "question": "¿Cuál es la capital de Bolivia?",
     "options": [
-      "La Paz",
+      "_La Paz",
       "Sucre",
       "Cochabamba",
       "Santa Cruz"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 82,
     "question": "¿Qué es la contaminación?",
     "options": [
-      "La presencia de sustancias nocivas en el medio ambiente",
+      "_La presencia de sustancias nocivas en el medio ambiente",
       "Un tipo de energía",
       "Un fenómeno natural",
       "Un tipo de planta"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 83,
     "question": "¿Cuál es la capital de Paraguay?",
     "options": [
-      "Asunción",
+      "_Asunción",
       "Ciudad del Este",
       "Encarnación",
       "Pedro Juan Caballero"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 84,
     "question": "¿Qué es un recurso natural?",
     "options": [
-      "Un material que se encuentra en la naturaleza",
+      "_Un material que se encuentra en la naturaleza",
       "Un tipo de animal",
       "Un fenómeno meteorológico",
       "Un tipo de planta"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 85,
     "question": "¿Cuál es la capital de Ecuador?",
     "options": [
-      "Quito",
+      "_Quito",
       "Guayaquil",
       "Cuenca",
       "Manta"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 86,
     "question": "¿Qué es la energía eólica?",
     "options": [
-      "Energía producida por el viento",
+      "_Energía producida por el viento",
       "Energía producida por el sol",
       "Energía producida por el agua",
       "Energía producida por combustibles fósiles"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 87,
     "question": "¿Cuál es la capital de Chile?",
     "options": [
-      "Santiago",
+      "_Santiago",
       "Valparaíso",
       "Concepción",
       "La Serena"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 88,
     "question": "¿Qué es un ecosistema?",
     "options": [
-      "Una comunidad de organismos y su entorno",
+      "_Una comunidad de organismos y su entorno",
       "Un tipo de animal",
       "Un fenómeno natural",
       "Un tipo de planta"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 89,
     "question": "¿Cuál es la capital de Costa Rica?",
     "options": [
-      "San José",
+      "_San José",
       "Alajuela",
       "Cartago",
       "Liberia"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 90,
     "question": "¿Qué es la fotosíntesis?",
     "options": [
-      "Proceso mediante el cual las plantas producen su alimento",
+      "_Proceso mediante el cual las plantas producen su alimento",
       "Un tipo de reproducción",
       "Un fenómeno químico",
       "Un tipo de energía"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 91,
     "question": "¿Cuál es la capital de Nicaragua?",
     "options": [
-      "Managua",
+      "_Managua",
       "León",
       "Granada",
       "Masaya"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 92,
     "question": "¿Qué es un bioma?",
     "options": [
-      "Una gran área ecológica con condiciones climáticas similares",
+      "_Una gran área ecológica con condiciones climáticas similares",
       "Un tipo de animal",
       "Un fenómeno natural",
       "Un tipo de planta"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 93,
     "question": "¿Cuál es la capital de El Salvador?",
     "options": [
-      "San Salvador",
+      "_San Salvador",
       "Santa Ana",
       "San Miguel",
       "La Libertad"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 94,
     "question": "¿Qué es la energía geotérmica?",
     "options": [
-      "Energía producida por el calor de la Tierra",
+      "_Energía producida por el calor de la Tierra",
       "Energía producida por el viento",
       "Energía producida por el sol",
       "Energía producida por combustibles fósiles"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 95,
     "question": "¿Cuál es la capital de Panamá?",
     "options": [
-      "Panamá",
+      "_Panamá",
       "David",
       "Colón",
       "Chiriquí"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 96,
     "question": "¿Qué es un recurso renovable?",
     "options": [
-      "Un recurso que se puede regenerar",
+      "_Un recurso que se puede regenerar",
       "Un tipo de animal",
       "Un fenómeno natural",
       "Un tipo de planta"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 97,
     "question": "¿Cuál es la capital de Haití?",
     "options": [
-      "Puerto Príncipe",
+      "_Puerto Príncipe",
       "Cap-Haïtien",
       "Les Cayes",
       "Jacmel"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 98,
     "question": "¿Qué es la energía hidráulica?",
     "options": [
-      "Energía producida por el agua",
+      "_Energía producida por el agua",
       "Energía producida por el viento",
       "Energía producida por el sol",
       "Energía producida por combustibles fósiles"
     ],
-    "answer": 0,
     "category": "Ciencias"
   },
   {
     "id": 99,
     "question": "¿Cuál es la capital de Jamaica?",
     "options": [
-      "Kingston",
+      "_Kingston",
       "Montego Bay",
       "Ocho Ríos",
       "Negril"
     ],
-    "answer": 0,
     "category": "Geografia"
   },
   {
     "id": 100,
     "question": "¿Qué es la energía no renovable?",
     "options": [
-      "Energía que no se puede regenerar",
+      "_Energía que no se puede regenerar",
       "Energía producida por el viento",
       "Energía producida por el sol",
       "Energía producida por el agua"
     ],
-    "answer": 0,
     "category": "Ciencias"
   }
 ]
