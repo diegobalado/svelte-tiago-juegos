@@ -20,7 +20,7 @@
 	const cantidad = filas * columnas;
 	const emojiDistinto = Math.floor(Math.random() * cantidad);
 	const getEmojiClasses = (i = 0) =>
-		`font-${i === emojiDistinto ? 'sans' : 'serif'} emoji${i === emojiDistinto ? '-distinto' : ''} ${i === emojiDistinto ? 'animate-pulse' : ''}`;
+		`emoji ${i === emojiDistinto ? 'distinto' : ''}`;
 </script>
 
 <svelte:head>
