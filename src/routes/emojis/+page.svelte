@@ -5,7 +5,9 @@
 
 	/**
 	 * @type {{
-	 * name: string, emoji: string} | null}
+	 *   name: string,
+	 *   emoji: string
+	 * } | null }
 	 */
 	let randomEmoji;
 
@@ -18,7 +20,7 @@
 	const cantidad = filas * columnas;
 	const emojiDistinto = Math.floor(Math.random() * cantidad);
 	const getEmojiClasses = (i = 0) =>
-		`font-${i === emojiDistinto ? 'sans' : 'serif'} emoji${i === emojiDistinto ? '-distinto' : ''}`;
+		`font-${i === emojiDistinto ? 'sans' : 'serif'} emoji${i === emojiDistinto ? '-distinto' : ''} ${i === emojiDistinto ? 'animate-pulse' : ''}`;
 </script>
 
 <svelte:head>
@@ -29,7 +31,7 @@
 <div class="absolute h-full w-full overflow-hidden bg-gradient-to-r from-slate-900 to-slate-700">
 	<Background />
 	<div class="flex w-full h-full items-center justify-center z-10 relative">
-		<div class="grid grid-cols-6 gap-8">
+		<div class="grid grid-cols-6 md:grid-cols-8 gap-2 md:gap-8">
 			{#if randomEmoji}
 				{#each Array.from({ length: cantidad }) as _, i}
 					<p class={getEmojiClasses(i)}>
