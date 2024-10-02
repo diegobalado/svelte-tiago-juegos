@@ -10,20 +10,22 @@
 	let correcto = writable(false);
 	let successLabel = writable('');
 	let contador = writable(0);
+	let emojiDistinto = writable(0);
 
 	onMount(() => {
 		$randomEmoji = random();
+		$emojiDistinto = getRandomIndex();
 	});
 
 	
 	const columnas = 6;
 	const filas = 8;
 	const cantidad = filas * columnas;
-	const emojiDistinto = Math.floor(Math.random() * cantidad);
-	const getEmojiClasses = (i = 0) => `emoji ${i === emojiDistinto ? 'distinto' : ''}`;
+	const getEmojiClasses = (i = 0) => `emoji ${i === $emojiDistinto ? 'distinto' : ''}`;
+	const getRandomIndex = () => Math.floor(Math.random() * cantidad);
 	const handleClick = (i = 0) => {
 		$respondido = true;
-		$correcto = i === emojiDistinto;
+		$correcto = i === $emojiDistinto;
 		$successLabel = $correcto ? 'BIEEN!! 🎉🎉' : 'NOOO!! 💩💩💩';
 		if ($correcto) {
 			$contador++;
@@ -33,6 +35,7 @@
 	};
 	const handleNew = () => {
 		$randomEmoji = random();
+		$emojiDistinto = getRandomIndex();
 		$respondido = false;
 	};
 </script>
