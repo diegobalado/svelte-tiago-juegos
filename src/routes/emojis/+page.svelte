@@ -50,7 +50,7 @@
 		</div>
 
 		<p class="font-sans text-3xl font-bold text-center uppercase text-slate-300 text-w max-w-72">Elegí el emoji distinto</p>
-		<div class="grid grid-cols-6 gap-2 place-items-center px-4 py-3 my-5 rounded-xl border-4 border-gray-500 opacity-90 bg-slate-200 md:grid-cols-8 md:gap-8">
+		<div class="grid grid-cols-6 gap-2 place-items-center px-4 py-3 my-3 rounded-xl border-4 border-gray-500 opacity-90 bg-slate-200 md:grid-cols-8 md:gap-8">
 			{#if $randomEmoji}
 				{#each Array.from({ length: cantidad }) as _, i}
 					<button on:click={() => handleClick(i)}>
