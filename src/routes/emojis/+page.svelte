@@ -103,18 +103,12 @@
 				{#each Array.from({ length: cantidad }) as _, i}
 					<button on:click={() => handleClick(i)}>
 						<p
-							class={`emoji ${i === $emojiDistinto ? 'distinto' : ''} ${i === $emojiDistinto && $respondido ? 'border-2 border-red-500 rounded-lg' : ''}`}
+							class={`emoji ${i === $emojiDistinto ? 'distinto' : ''} ${i === $emojiDistinto && $respondido && !$blur ? 'border-2 border-red-500 rounded-lg border-dashed' : ''}`}
 						>
 							{$randomEmoji.emoji}
 						</p>
 					</button>
 				{/each}
-			</div>
-			<div class="relative w-1/2 h-5 bg-gray-300 rounded-lg">
-				<div
-					class={`absolute h-full ${$timer > 10 ? 'bg-green-500' : $timer > 7 ? 'bg-yellow-500' : $timer > 2 ? 'bg-orange-500' : 'bg-red-500'} transition-all duration-1000`}
-					style="width: {($timer / 20) * 100}%"
-				></div>
 			</div>
 		{:else}
 			<p class="col-span-6 row-span-3 text-2xl text-white">Cargando...</p>
@@ -132,6 +126,13 @@
 				{#if $blur}
 					<Button label={$successLabel} onClick={() => handleNew()} />
 				{/if}
+			</div>
+		{:else}
+			<div class="relative w-3/4 h-5 mt-2 bg-gray-300 rounded-lg">
+				<div
+					class={`absolute h-full ${$timer > 10 ? 'bg-green-500' : $timer > 7 ? 'bg-yellow-500' : $timer > 2 ? 'bg-orange-500' : 'bg-red-500'} transition-all duration-1000 rounded-lg`}
+					style="width: {($timer / 20) * 100}%"
+				></div>
 			</div>
 		{/if}
 	</div>
