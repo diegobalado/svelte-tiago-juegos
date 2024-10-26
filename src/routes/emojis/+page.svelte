@@ -69,6 +69,7 @@
 	const handleTimeOut = () => {
 		$respondido = true;
 		$correcto = false;
+		$blur = true;
 		$successLabel = '¡¡Más rápido, che!! 🐢🐢🐢';
 		$contador = 0; // Reset the counter on timeout
 		stopTimer(); // Asegurarse de que el temporizador se detenga
@@ -98,7 +99,7 @@
 		</p>
 		{#if $randomEmoji}
 			<div
-				class={`grid grid-cols-${columnas} gap-2 place-items-center px-4 py-3 my-3 rounded-xl border-4 border-gray-500 opacity-90 bg-slate-200 md:grid-cols-${columnas} md:gap-${columnas}`}
+				class={`grid grid-cols-6 gap-2 place-items-center px-4 py-3 my-3 rounded-xl border-4 border-gray-500 opacity-90 bg-slate-200 md:grid-cols-6 md:gap-6`}
 			>
 				{#each Array.from({ length: cantidad }) as _, i}
 					<button on:click={() => handleClick(i)}>
@@ -119,8 +120,8 @@
 				<div
 					role="button"
 					tabindex="0"
-					on:mousedown={() => ($blur = false)}
-					on:mouseup={() => ($blur = true)}
+					on:touchstart={() => ($blur = false)}
+					on:touchend={() => ($blur = true)}
 					class={`flex absolute justify-center items-center w-full h-full before:absolute before:w-full before:h-full ${$blur ? 'before:backdrop-blur-sm' : ''}`}
 				></div>
 				{#if $blur}
