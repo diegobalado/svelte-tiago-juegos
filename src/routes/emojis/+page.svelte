@@ -4,14 +4,16 @@
 	import { random } from 'node-emoji';
 	import { writable } from 'svelte/store';
 	import Button from '../../components/Button.svelte';
+	import Timer from '../../components/Timer.svelte';
 
+	const duration = 10;
 	let randomEmoji = writable();
 	let respondido = writable(false);
 	let correcto = writable(false);
 	let successLabel = writable('');
 	let contador = writable(0);
 	let emojiDistinto = writable(0);
-	let timer = writable(20);
+	let timer = writable(duration);
 	let blur = writable(false);
 	/** @type {ReturnType<typeof setInterval> | null} */
 	let interval = null;
@@ -47,7 +49,7 @@
 	};
 
 	const startTimer = () => {
-		timer.set(20);
+		timer.set(duration);
 		stopTimer(); // Asegurarse de que no haya un intervalo activo antes de iniciar uno nuevo
 		interval = setInterval(() => {
 			timer.update((n) => {
@@ -129,12 +131,7 @@
 				{/if}
 			</div>
 		{:else}
-			<div class="relative w-3/4 h-5 mt-2 bg-gray-300 rounded-lg">
-				<div
-					class={`absolute h-full ${$timer > 10 ? 'bg-green-500' : $timer > 7 ? 'bg-yellow-500' : $timer > 2 ? 'bg-orange-500' : 'bg-red-500'} transition-all duration-1000 rounded-lg`}
-					style="width: {($timer / 20) * 100}%"
-				></div>
-			</div>
+			<Timer progress={$timer} duration={duration} />
 		{/if}
 	</div>
 </div>
