@@ -15,13 +15,16 @@
 	let emojiDistinto = writable(0);
 	let timer = writable(duration);
 	let blur = writable(false);
+	let timerEnabled = writable(true);
 	/** @type {ReturnType<typeof setInterval> | null} */
 	let interval = null;
 
 	onMount(() => {
 		$randomEmoji = random();
 		$emojiDistinto = getRandomIndex();
-		startTimer();
+		if ($timerEnabled) {
+			startTimer();
+		}
 	});
 
 	const columnas = 6;
@@ -49,7 +52,7 @@
 	};
 
 	const startTimer = () => {
-		timer.set(duration);
+			timer.set(duration);
 		stopTimer(); // Asegurarse de que no haya un intervalo activo antes de iniciar uno nuevo
 		interval = setInterval(() => {
 			timer.update((n) => {
@@ -77,6 +80,15 @@
 		stopTimer(); // Asegurarse de que el temporizador se detenga
 	};
 
+	const toggleTimer = () => {
+		if ($timerEnabled) {
+			stopTimer();
+		} else {
+			startTimer();
+		}
+		$timerEnabled = !$timerEnabled; // Toggle the timer state
+	};
+
 	onDestroy(() => {
 		stopTimer();
 	});
@@ -90,7 +102,11 @@
 <div class="overflow-hidden absolute w-full h-full bg-gradient-to-r from-slate-900 to-slate-700">
 	<Background />
 	<div class="flex relative z-10 flex-col justify-center items-center w-full h-full">
-		<div class="absolute top-6 right-6">
+		<div class="flex absolute w-full top-6 gap-2 justify-between px-6">
+			<button on:click={toggleTimer} class="text-2xl" type="button">
+					<span class={`${$timerEnabled ? 'saturate-0' : ''}`}>🧘🏽‍♀️</span>
+					<span class={`${!$timerEnabled ? 'saturate-0' : ''}`}>⏰</span>
+			</button>
 			<p class="text-2xl font-extrabold text-slate-300">{`⭐ ${$contador}`}</p>
 		</div>
 
@@ -131,7 +147,9 @@
 				{/if}
 			</div>
 		{:else}
-			<Timer progress={$timer} duration={duration} />
+			{#if $timerEnabled}
+				<Timer progress={$timer} duration={duration} />
+			{/if}
 		{/if}
 	</div>
 </div>
