@@ -105,7 +105,7 @@
 		<div class="flex absolute w-full top-6 gap-2 justify-between px-6">
 			<button on:click={toggleTimer} class="text-2xl" type="button">
 					<span class={`${$timerEnabled ? 'saturate-0' : ''}`}>🧘🏽‍♀️</span>
-					<span class={`${!$timerEnabled ? 'saturate-0' : ''}`}>⏰</span>
+					<span class={`${!$timerEnabled ? 'saturate-0' : ''}`}>🏃🏽‍♀️</span>
 			</button>
 			<p class="text-2xl font-extrabold text-slate-300">{`⭐ ${$contador}`}</p>
 		</div>
